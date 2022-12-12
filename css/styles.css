@@ -1,0 +1,36 @@
+.body{
+    display: flex;
+    flex-direction: column;
+}
+
+.top{
+   background-color: #1F2937; 
+   display: flex;
+   flex-direction: column;
+   color: #F9FAF8;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    /* flex-direction: column; */
+}
+ul{
+    display: flex;
+    gap: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.the-bold{
+    font-weight: bold;
+    /* font-size: 48px; */
+}
+button{
+    background-color: #3882F6;
+}

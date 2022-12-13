@@ -74,6 +74,7 @@ img{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 16px;
 }
 
 .quotes-main-text{
@@ -87,5 +88,5 @@ img{
 .qoute{
     display: flex;
     flex-direction: column;
-    width: 800px;
+    width: 500px;
 }

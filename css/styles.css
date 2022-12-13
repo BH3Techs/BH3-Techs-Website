@@ -69,3 +69,23 @@ img{
     border-color: #3882F6;
     border-width: 2px;
 }
+.qoutes{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quotes-main-text{
+    align-self: center;
+}
+.quotes-author{
+    display: flex;
+    align-self: flex-end;
+
+}
+.qoute{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+}

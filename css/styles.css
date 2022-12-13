@@ -90,3 +90,14 @@ img{
     flex-direction: column;
     width: 500px;
 }
+.call-to-action{
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+.call-head{
+    font-weight: bold;
+}

@@ -16,6 +16,8 @@
 .main{
     display: flex;
     justify-content: space-around;
+    
+
     /* flex-direction: column; */
 }
 ul{
@@ -33,4 +35,11 @@ li{
 }
 button{
     background-color: #3882F6;
+}
+
+.main-text,
+.main-pic{
+    height: 100px;
+    width: 300px; 
+
 }

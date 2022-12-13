@@ -11,7 +11,7 @@ The domains available are
 5. ## Cancer Foundation
    
 ## Desired Outcome
-![outcome](./01.png)
+![outcome](./images/01.png)
 
 ## The Fonts Used
-![the-fonts](./02.png)
+![the-fonts](./images/02.png)

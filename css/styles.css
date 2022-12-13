@@ -1,6 +1,7 @@
 .body{
     display: flex;
     flex-direction: column;
+   
 }
 
 .top{
@@ -16,7 +17,7 @@
 .main{
     display: flex;
     justify-content: space-around;
-    
+    padding: 30px;
 
     /* flex-direction: column; */
 }
@@ -31,15 +32,40 @@ li{
 
 .the-bold{
     font-weight: bold;
-    /* font-size: 48px; */
+    font-size: 48px;
 }
 button{
     background-color: #3882F6;
+    margin-top: 16px;
 }
 
 .main-text,
 .main-pic{
-    height: 100px;
+    /* height: 100px; */
     width: 300px; 
 
+}
+
+.middle-part{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.middle-part-header{
+    font-size: 36px;
+    font-weight: bolder;
+
+}
+.middle-part-text{
+    display: flex;
+}
+.card{
+    width: 150px;
+    
+}
+img{
+    border-style: solid;
+    border-color: #3882F6;
+    border-width: 2px;
 }

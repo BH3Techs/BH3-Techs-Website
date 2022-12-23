@@ -133,6 +133,7 @@ button,
 li{
     font-size: 18px;
     color: #E5E7EB;
+    text-emphasis-style: none;
 }
 
 .header-logo{
@@ -142,4 +143,7 @@ li{
 
 a{
     text-decoration: none;
+}
+img{
+    padding: 10px;
 }
